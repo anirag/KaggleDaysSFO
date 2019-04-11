@@ -1,0 +1,2 @@
+# KaggleDaysSFO
+KaggleDays offline competition
